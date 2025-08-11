@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "8fae9d0fc78fa407",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef6ae1c2437ab8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "059e967f0e6a8af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest/摄像.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "摄像"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04a9e9f0a155c259",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3742f673837de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49915771da346e5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6c622d87679318c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d34646fc0da7bf93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69db366c666f6992",
+    "type": "split",
+    "children": [
+      {
+        "id": "3751e65cbff04324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f406cbdbfaaa19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "media/RTP协议.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "RTP协议 的反向链接列表"
+            }
+          },
+          {
+            "id": "07096268338b0e6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "ddaa857ca4d9cb89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "febc5d33c2026235",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interest/摄像.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "摄像 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "059e967f0e6a8af8",
+  "lastOpenFiles": [
+    "life/购房相关事宜.md",
+    "Interest/摄像.md",
+    "Interest",
+    "tools/wireshark保存视频流.md",
+    "life/未命名.md",
+    "life",
+    "work/网络应用方案.md",
+    "C&C++/sscanf函数.md",
+    "C&C++/attribute使用.md",
+    "C&C++/进程、exec函数族、管道联合调用.md",
+    "C&C++/指针和引用.md",
+    "media/流媒体.md",
+    "C&C++",
+    "other/记录.md",
+    "tools/obsidian.md",
+    "gb28181/sdp不支持ssrc值.md",
+    "cross_compilation/aliyun-oss.md",
+    "cross_compilation/ffmpeg.md",
+    "cross_compilation/ntp.md",
+    "cross_compilation/iperf3.md",
+    "cross_compilation/pocketsphinx.md",
+    "cross_compilation/porcupine.md",
+    "cross_compilation/snowboy.md",
+    "onvif/onvif代码生成问题.md",
+    "tools/nodepad++.md",
+    "test.md",
+    "test.png",
+    "rv1126/USB摄像头.md",
+    "rtp_h264_export.lua",
+    "work/RTSP视频预览延迟.md",
+    "work/UDP视频传输.md",
+    "未命名.canvas",
+    "other",
+    "tools/images/6UHtQWgkL1a8eyxcWjQv7wuzCb30pRN7hEMwqRGQ4jU.png",
+    "tools/images/IslUihzL7mov72EjGyt550m3YmLA7JBwtIA1XKspsAE.png",
+    "tools/images",
+    "files/rtp_h265_export.lua",
+    "files/rtp_h264_export.lua",
+    "files",
+    "tools/files/rtp_h265_export.lua",
+    "rv1126/images/ju5HZzefHOG_Ah1vkt3TL6YE0ov4h-7jtdTHPdrIPe4.png",
+    "rv1126/images/pvSVSh68XDP_RIQMONTGOFEVYG9bcyo5ctndSOp9x0o.png",
+    "rv1126/images/_y0iflAHDhC3Mm7uAlddl8jKL-SN0ocIpPOkaRB9XyE.png",
+    "media/svgs/pes.svg",
+    "media/svgs/psm.svg",
+    "media/svgs/ps_system_header.svg",
+    "media/svgs/rtp_header.svg"
+  ]
+}
