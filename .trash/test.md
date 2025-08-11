@@ -1,5 +1,0 @@
-[Site Unreachable](https://zhuanlan.zhihu.com/p/720064071)
-[【免费下载】 Obsidian Style Settings 插件教程-CSDN博客](https://blog.csdn.net/gitblog_00738/article/details/141383815)
-[Site Unreachable](https://www.zhihu.com/question/1927045632536866901/answer/1929967659857969335)
-[obsidian怎么改变文字颜色 - CSDN文库](https://wenku.csdn.net/answer/6yg1wnfzkb)
-[obsidian自定义颜色盘 - by Turningbell - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=e4418b80-c48f-4e7c-cd57-08dbf3670a31)
