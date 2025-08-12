@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f80e50d5651664da",
+        "id": "0d9593fc15f15225",
         "type": "tabs",
         "children": [
           {
-            "id": "51ed82b1e9e0c4cd",
+            "id": "80556d80a7aa5209",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,21 +167,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51ed82b1e9e0c4cd",
+  "active": "80556d80a7aa5209",
   "lastOpenFiles": [
+    "linux/VSCode配置免密登录.md",
+    "interest/摄像.md",
+    "interest",
+    "linux/images/密钥文件路径.png",
+    "linux/nfs.md",
+    "linux/images/vscode配置远端主机.png",
+    "linux/虚拟机和github连接.md",
+    "common_cmd/git.md",
+    "linux/搭建samba服务器.md",
+    "linux/设置ssh.md",
+    "linux/ubuntu中terminal无法打开.md",
+    "tools/wireshark保存视频流.md",
     "media/RTP.md",
     "work/Version.md",
     "other/recoder.md",
     "tools/nodepad++.md",
     "tools/obsidian.md",
-    "tools/wireshark保存视频流.md",
     "work/网络应用方案.md",
     "network/multipart form-data请求简要分析.md",
     "ts.md",
     "work/rtsp.md",
     "work/全景协议.md",
     "C&C++/进程、exec函数族、管道联合调用.md",
-    "common_cmd/git.md",
     "C&C++/未命名.canvas",
     "Interest/摄像.md",
     "life/购房相关事宜.md",
@@ -191,14 +201,7 @@
     "C&C++/sscanf函数.md",
     "C&C++/attribute使用.md",
     "C&C++/指针和引用.md",
-    "media/流媒体.md",
     "C&C++",
-    "gb28181/sdp不支持ssrc值.md",
-    "cross_compilation/aliyun-oss.md",
-    "cross_compilation/ffmpeg.md",
-    "cross_compilation/ntp.md",
-    "cross_compilation/iperf3.md",
-    "cross_compilation/pocketsphinx.md",
     "test.png",
     "rtp_h264_export.lua",
     "未命名.canvas",
@@ -209,13 +212,10 @@
     "files/rtp_h265_export.lua",
     "files/rtp_h264_export.lua",
     "files",
-    "tools/files/rtp_h265_export.lua",
     "rv1126/images/ju5HZzefHOG_Ah1vkt3TL6YE0ov4h-7jtdTHPdrIPe4.png",
     "rv1126/images/pvSVSh68XDP_RIQMONTGOFEVYG9bcyo5ctndSOp9x0o.png",
     "rv1126/images/_y0iflAHDhC3Mm7uAlddl8jKL-SN0ocIpPOkaRB9XyE.png",
     "media/svgs/pes.svg",
-    "media/svgs/psm.svg",
-    "media/svgs/ps_system_header.svg",
-    "media/svgs/rtp_header.svg"
+    "media/svgs/psm.svg"
   ]
 }
