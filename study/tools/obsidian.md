@@ -7,3 +7,5 @@
 6. Paste image rename
 7. PlantUML
 8. VersionHistoryDiff
+9. Kanban
+10. Periodic Notes
