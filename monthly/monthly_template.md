@@ -16,10 +16,14 @@ kanban-plugin: board
 
 
 
+## 工作
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":true}
 ```
 %%
