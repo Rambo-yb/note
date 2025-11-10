@@ -9,3 +9,4 @@
 8. VersionHistoryDiff
 9. Kanban
 10. Periodic Notes
+11. Tasks
