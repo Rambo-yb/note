@@ -1,12 +1,14 @@
-插件
+##### 插件
 1. auto link tittle
 2. Better Export PDF
-3. Diagrams
-4. Editing Toolbar
-5. Novel word count
-6. Paste image rename
+3. Editing Toolbar
+4. Novel word count
+5. Paste image rename
+6. VersionHistoryDiff
+
 7. PlantUML
-8. VersionHistoryDiff
+8. Diagrams
+
 9. Kanban
 10. Periodic Notes
 11. Tasks
