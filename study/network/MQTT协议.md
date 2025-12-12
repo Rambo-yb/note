@@ -15,7 +15,6 @@ MQTT（Message Queuing Telemetry Transport）是一种轻量级、基于发布-�
 - 使用TCP/IP协议监听是否有客户端连接
 - 记录客户端订阅的主题信息
 - 接收客户端发布的消息，并根据主题信息转发给订阅了该主题的客户端
-
 #### 协议文档
 [[MQTT_协议_3.1.1_中文版.pdf]]
 [[mqtt-v5.0-zh_cn.pdf]]
